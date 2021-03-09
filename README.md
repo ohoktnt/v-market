@@ -1,7 +1,7 @@
 # V-Market
 A virtual marketplace that redfines online shopping. It brings buyers and sellers together on a 2D map to simulate the real-life experience. Users can instant message or video chat online with friends as they expore the V-Market Map. The main feature is the marketplace, where users can purchase from multiple stores through one platform and vendors can have a sales representative at each of their stalls. The user can request help and start a live video chat with a representative if they have any questions. 
 
-This project was collorated with @Raficelkouche and @Wwong154
+This project was collorated with @Raficelkouche and @Wwong154.
 
 ## Screenshots
 ![Landing Page](https://github.com/ohoktnt/v-market/blob/master/docs/v-market-Landing.png?raw=true)
